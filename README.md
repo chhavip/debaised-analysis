@@ -1,7 +1,7 @@
 Debiased Analysis Add-on
 
 Composing analysis in Sheets using formulas is hard to learn and master, particularly for more advanced intents such as trend, top-k, slice comparisons.The goal of the project is to describe user intents as Sheets formula functions. Implementation of each formula will be in Python, which returns not only the result (formula) but also a set of debiasing suggestions.
-
+I will have to change text at the exact same place. 
 I will add more text before other things change.
 ## Source Code Headers
 
